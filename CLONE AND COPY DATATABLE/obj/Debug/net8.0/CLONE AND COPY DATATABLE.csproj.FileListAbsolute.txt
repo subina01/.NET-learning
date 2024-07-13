@@ -1,0 +1,27 @@
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.csproj.AssemblyReference.cache
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.AssemblyInfoInputs.cache
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.AssemblyInfo.cs
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.csproj.CoreCompileInputs.cache
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\CLONE AND COPY DATATABLE.exe
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\CLONE AND COPY DATATABLE.deps.json
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\CLONE AND COPY DATATABLE.runtimeconfig.json
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\CLONE AND COPY DATATABLE.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\CLONE AND COPY DATATABLE.pdb
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.csproj.CopyComplete
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\refint\CLONE AND COPY DATATABLE.dll
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.pdb
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\CLONE AND COPY DATATABLE.genruntimeconfig.cache
+C:\projects for learning csharp\CLONE AND COPY DATATABLE\obj\Debug\net8.0\ref\CLONE AND COPY DATATABLE.dll

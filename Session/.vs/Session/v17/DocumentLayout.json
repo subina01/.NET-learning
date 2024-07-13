@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects for learning csharp\\Session\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|c:\\projects for learning csharp\\session\\views\\session\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|solutionrelative:views\\session\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|c:\\projects for learning csharp\\session\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|c:\\projects for learning csharp\\session\\views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|solutionrelative:views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|c:\\projects for learning csharp\\session\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F538D59-46A4-4ACA-89D3-F8FFB1B48F6D}|Session.csproj|solutionrelative:controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\projects for learning csharp\\Session\\Views\\Session\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\Index.cshtml",
+              "ToolTip": "C:\\projects for learning csharp\\Session\\Views\\Session\\Index.cshtml",
+              "RelativeToolTip": "Views\\Session\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T02:56:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects for learning csharp\\Session\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projects for learning csharp\\Session\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:52:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Get.cshtml",
+              "DocumentMoniker": "C:\\projects for learning csharp\\Session\\Views\\Session\\Get.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\Get.cshtml",
+              "ToolTip": "C:\\projects for learning csharp\\Session\\Views\\Session\\Get.cshtml",
+              "RelativeToolTip": "Views\\Session\\Get.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T02:48:09.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\projects for learning csharp\\Session\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionController.cs",
+              "ToolTip": "C:\\projects for learning csharp\\Session\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "Controllers\\SessionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:35:19.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

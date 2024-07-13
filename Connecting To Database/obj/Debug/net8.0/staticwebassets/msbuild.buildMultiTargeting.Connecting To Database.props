@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Connecting To Database.props" />
+</Project>
